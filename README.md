@@ -3,5 +3,4 @@ deno
 
 hi hihihihihihihihihi
 
-hihi dealksdk
 邱猪
